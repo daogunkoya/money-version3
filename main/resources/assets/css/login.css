@@ -1,0 +1,26 @@
+
+
+
+body{
+	background-top:-20px;
+	background:url(images/nature.jpg) repeat;
+	background-size: cover;
+	font-weight: bold;
+	
+}
+
+#status,#message{
+	display: none;
+}
+footer{
+	background:#000000;
+	color:#ffffff;
+	padding:20px;
+}
+p{
+	padding:20px;
+}
+
+section#main{
+	background:url(images/bak/nature.jpg) repeat;
+}
